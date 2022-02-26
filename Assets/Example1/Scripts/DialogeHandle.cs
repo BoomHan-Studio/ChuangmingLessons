@@ -23,7 +23,7 @@ public class DialogeHandle : MonoBehaviour
         dialoges = new[]
         {
             new Dialoge(Person.Feng, "啊哈，啊哈哈哈哈哈哈，鸡汤来咯！"),
-            new Dialoge(Person.Feng, "诶这，这菜都齐了怎么还不吃呀？"),
+            new Dialoge(Person.Feng, "哎这，这菜都齐了怎么还不吃呀？"),
             new Dialoge(Person.Wang, "老冯啊，大伙儿都不敢吃。有人说，说是有人在菜里下了毒！"),
             new Dialoge(Person.Feng, "害羞羞，王大队长，你这人就喜欢开玩笑。快趁热吃吧，我不打扰，我走了哈！"),
             new Dialoge(Person.Xie, "你不能走。"),
@@ -40,7 +40,7 @@ public class DialogeHandle : MonoBehaviour
             new Dialoge(Person.Feng, "喝吧，趁热喝呀！"),
             new Dialoge(Person.Feng, "司令，妮嘚逮个头儿，你要是不带头喝，塔，塔们怎么能，能敢喝呢，嘿咻？"),
             new Dialoge(Person.Feng, "都，都看我干什么？喝，喝呀！快趁热喝，趁热喝呀！"),
-            new Dialoge(Person.Feng, "诶他奶奶的，为什么不喝！喝！喝！"),
+            new Dialoge(Person.Feng, "哎他奶奶的，为什么不喝！喝！喝！"),
             new Dialoge(Person.Feng, "不喝，不喝是吧，不喝，不喝我就炸死你！"),
             new Dialoge(Person.Feng, "都不敢喝，都pass是吧！我告诉你，不喝，不喝也百想活着！"),
             new Dialoge(Person.Feng, "既然大家都知道了，这戏我就不演了！我就是大名鼎鼎的，重庆军统，和大日本双料高级特工！代号："),
